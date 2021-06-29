@@ -1,0 +1,154 @@
+##
+## Manjaro Linux default mirrorlist
+## Generated on 2021-06-28 19:44
+##
+## Please use 'pacman-mirrors -f [NUMBER] [NUMBER]' to modify mirrorlist
+## (Use 0 for all mirrors)
+##
+
+## Country : Worldwide
+Server = https://mirrors.fosshost.org/blackarch/
+Server = https://mirrors.fossho.st/blackarch/
+
+## Country : Australia
+Server = http://blackarch.mirror.digitalpacific.com.au/
+Server = rsync://mirror.digitalpacific.com.au/blackarch/
+
+## Country : Austria
+Server = http://mirror.easyname.at/blackarch/
+Server = ftp://mirror.easyname.at/blackarch/
+Server = rsync://mirror.easyname.at/blackarch/
+
+## Country : Bulgaria
+Server = https://mirror.telepoint.bg/blackarch/
+
+## Country : China
+Server = https://mirror.sjtu.edu.cn/blackarch/
+Server = https://mirrors.tuna.tsinghua.edu.cn/blackarch/
+Server = https://mirrors.ustc.edu.cn/blackarch/
+
+## Country : Denmark
+Server = http://mirrors.dotsrc.org/blackarch/
+Server = ftp://mirrors.dotsrc.org/blackarch/
+
+## Country : Ecuador
+Server = http://mirror.uta.edu.ec/blackarch/
+Server = ftp://mirror.uta.edu.ec/blackarch/
+Server = rsync://mirror.uta.edu.ec/blackarch/
+Server = http://mirror.cedia.org.ec/blackarch/
+
+## Country : France
+Server = https://www.blackarch.org/blackarch/
+Server = rsync://blackarch.org/blackarch/
+Server = http://blackarch.leneveu.fr/blackarch/
+Server = http://blackarch.pi3rrot.net/blackarch/
+Server = http://mirror.cyberbits.eu/blackarch/
+Server = https://mirror.cyberbits.eu/blackarch/
+Server = rsync://rsync.cyberbits.eu/blackarch/
+
+## Country : Germany
+Server = https://mirrors.dr460nf1r3.me/repos/blackarch/
+Server = http://ftp.halifax.rwth-aachen.de/blackarch/
+Server = https://ftp.halifax.rwth-aachen.de/blackarch/
+Server = ftp://ftp.halifax.rwth-aachen.de/blackarch/
+Server = rsync://ftp.halifax.rwth-aachen.de/blackarch/
+Server = http://blackarch.unixpeople.org/
+Server = https://blackarch.unixpeople.org/
+Server = rsync://blackarch.unixpeople.org/blackarch/
+Server = http://mirror.undisclose.de/blackarch/
+Server = https://mirror.undisclose.de/blackarch//
+Server = rsync://mirror.undisclose.de/blackarch/
+
+## Country : Greece
+Server = http://ftp.cc.uoc.gr/mirrors/linux/blackarch/
+Server = ftp://ftp.cc.uoc.gr/mirrors/linux/blackarch/
+Server = rsync://blackarch@cc.uoc.gr/blackarch
+
+## Country : Great Britain
+Server = http://www.mirrorservice.org/sites/blackarch.org/blackarch/
+Server = rsync://rsync.mirrorservice.org/blackarch.org/blackarch/
+Server = https://uk.mirrors.fossho.st/blackarch//os/
+
+## Country : Hungary
+Server = http://quantum-mirror.hu/mirrors/pub/blackarch/
+Server = https://quantum-mirror.hu/mirrors/pub/blackarch/
+Server = rsync://quantum-mirror.hu/blackarch
+
+## Country : Italy
+Server = http://blackarch.mirror.garr.it/mirrors/blackarch/
+Server = rsync://blackarch.mirror.garr.it/blackarch/
+
+## Country : Japan
+Server = http://www.ftp.ne.jp/Linux/packages/blackarch/
+Server = http://ftp.kddilabs.jp/Linux/packages/blackarch/
+Server = https://ftp.kddilabs.jp/Linux/packages/blackarch/
+
+## Country : Netherlands
+Server = http://mirror.serverion.com/blackarch/
+Server = https://mirror.serverion.com/blackarch/
+Server = ftp://mirror.serverion.com/blackarch/
+Server = rsync://mirror.serverion.com/opnsense
+Server = http://mirror.neostrada.nl/blackarch/
+Server = https://mirror.neostrada.nl/blackarch/
+Server = ftp://mirror.neostrada.nl/blackarch/
+Server = rsync://mirror.neostrada.nl/blackarch/
+
+## Country : New Zealand
+Server = http://nz-mirror.intergrid.com.au/blackarch/
+Server = ftp://nz-mirror.intergrid.com.au/blackarch
+
+## Country : Poland
+Server = http://ftp.icm.edu.pl/pub/Linux/dist/blackarch/
+Server = ftp://ftp.icm.edu.pl/pub/Linux/dist/blackarch/
+Server = rsync://ftp.icm.edu.pl/pub/Linux/dist/blackarch/
+Server = gopher://ftp.icm.edu.pl/1/pub/Linux/dist/blackarch/
+
+## Country : Russia
+Server = https://mirror.surf/blackarch/
+Server = rsync://mirror.surf/blackarch/
+Server = http://mirror.truenetwork.ru/blackarch/
+Server = ftp://mirror.truenetwork.ru/blackarch/
+Server = rsync://mirror.truenetwork.ru/blackarch/
+Server = http://mirror.yandex.ru/mirrors/blackarch/
+Server = ftp://mirror.yandex.ru/mirrors/blackarch/
+Server = rsync://mirror.yandex.ru/mirrors/blackarch/
+
+## Country : Singapore
+Server = http://download.nus.edu.sg/mirror/blackarch/
+Server = https://download.nus.edu.sg/mirror/blackarch/
+
+## Country : Sweden
+Server = http://mirror.zetup.net/blackarch/
+
+## Country : Switzerland
+Server = http://mirror.easyname.ch/blackarch/
+Server = ftp://mirror.easyname.ch/blackarch/
+Server = rsync://mirror.easyname.ch/blackarch/
+Server = https://mirror.tillo.ch/ftp/blackarch/
+Server = http://mirror.tillo.ch/ftp/blackarch/
+Server = ftpes://mirror.tillo.ch/blackarch/
+Server = ftp://mirror.tillo.ch/blackarch/
+Server = rsync://mirror.tillo.ch/blackarch/
+
+## Country : Turkey
+Server = http://ftp.linux.org.tr/blackarch/
+Server = ftp://ftp.linux.org.tr/blackarch/
+Server = rsync://rsync.linux.org.tr/blackarch/
+
+## Country : Taiwan
+Server = http://blackarch.cs.nctu.edu.tw/
+Server = https://blackarch.cs.nctu.edu.tw/
+Server = rsync://blackarch.cs.nctu.edu.tw/blackarch/
+
+## Country : USA
+Server = http://blackarch.pr0s3c.nl/blackarch/
+Server = https://us.mirrors.fossho.st/blackarch/
+Server = https://blackarch.pr0s3c.nl/blackarch/
+Server = http://mirror.math.princeton.edu/pub/blackarch/
+Server = https://mirror.math.princeton.edu/pub/blackarch/
+Server = rsync://mirror.math.princeton.edu/pub/blackarch/
+Server = http://distro.ibiblio.org/blackarch/
+Server = ftp://distro.ibiblio.org/blackarch/
+Server = http://mirror.team-cymru.com/blackarch/
+Server = ftp://mirror.team-cymru.com/blackarch/
+Server = rsync://mirror.team-cymru.com/blackarch/
